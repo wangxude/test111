@@ -21,6 +21,7 @@
 
 - (void)add {
     UIButton * button ;
+    UIButton * button2;
 }
 
 
