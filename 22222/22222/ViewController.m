@@ -20,7 +20,7 @@
 }
 
 - (void)add {
-    
+    UIButton * button ;
 }
 
 
